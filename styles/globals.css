@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.btn--primary {
+  background-color: indianred;
+  color: white;
+  padding: 1rem 1.875rem;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+}

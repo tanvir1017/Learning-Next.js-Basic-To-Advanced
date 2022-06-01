@@ -8,6 +8,7 @@
   outline: none;
   color: #0070f3;
   font-family: dank mono;
+  margin-right: 5px;
 }
 .backToHomeBtn:hover {
   background-color: #0070f3;

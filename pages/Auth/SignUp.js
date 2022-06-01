@@ -1,9 +1,11 @@
 import Link from "next/link";
+import Navbar from "../../Container/Navbar/Navbar";
 const SignUp = () => {
   return (
-    <div>
+    <div style={{ textAlign: "center" }}>
+      <Navbar />
       <h2>Sign Up.Next</h2>
-      <strong>
+      <strong style={{ textDecoration: "underline" }}>
         Already have an account <Link href="/Auth/Login"> Login</Link>
       </strong>
     </div>
