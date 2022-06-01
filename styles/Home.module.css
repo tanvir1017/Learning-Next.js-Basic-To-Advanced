@@ -1,6 +1,18 @@
 .container {
   padding: 0 2rem;
 }
+.backToHomeBtn {
+  padding: 1rem 1.875rem;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  color: #0070f3;
+  font-family: dank mono;
+}
+.backToHomeBtn:hover {
+  background-color: #0070f3;
+  color: #eaeaea;
+}
 
 .main {
   min-height: 100vh;
