@@ -21,6 +21,9 @@ const Navbar = () => {
               <Link href="/Blog/NewsLetter">News Letter Blog</Link>
             </li>
             <li style={primary_color}>
+              <Link href="/Blog">Posts</Link>
+            </li>
+            <li style={primary_color}>
               <Link href="/Contact">Contact</Link>
             </li>
             <li style={primary_color}>

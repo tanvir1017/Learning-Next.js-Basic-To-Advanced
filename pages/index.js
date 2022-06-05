@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="description" content="Learning purpose" />
         <meta name="keywords" content="HTML, CSS, JavaScript" />
         <meta name="author" content="Learning Next.js" />

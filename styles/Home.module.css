@@ -120,6 +120,22 @@
   height: 1em;
   margin-left: 0.5rem;
 }
+/* blog */
+.blog {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.blog h2 {
+  background-color: #9825c1;
+  display: inline-block;
+  padding: 0.675rem 1.25rem;
+  border-radius: 3rem;
+  color: #eaeaea;
+  margin-right: 1rem;
+}
 
 @media (max-width: 600px) {
   .grid {
